@@ -65,7 +65,7 @@ Install dependencies using:
 pip install -r requirements.txt
 
 
-## Results
+### Results
 
 The model achieved an average accuracy of **99.12%** after fine-tuning. Here are the key results:
 
@@ -74,7 +74,7 @@ The model achieved an average accuracy of **99.12%** after fine-tuning. Here are
 
 A detailed classification report and confusion matrix are also printed for each fold during cross-validation.
 
-## Contact
+### Contact
 
 For any questions or collaboration opportunities, feel free to reach out:
 
