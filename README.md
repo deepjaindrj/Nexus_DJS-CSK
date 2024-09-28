@@ -2,7 +2,7 @@
 # Biological Target Status Prediction using LightGBM
 
 This project involves predicting the `Target_Status` (biological target status) using a LightGBM classifier. The model is trained on a biological dataset with various features such as drug and disease information. The model can classify the current status of a drug development project, helping researchers and stakeholders make more informed decisions.
-After performing stratified K-fold cross-validation and fine-tuning the model, the final accuracy achieved is **99.12%**.
+After performing stratified K-fold cross-validation and fine-tuning the model, the final accuracy achieved is **99.22%**.
 
 ## Table of Contents
 
@@ -70,8 +70,8 @@ pip install -r requirements.txt
 
 The model achieved an average accuracy of **99.12%** after fine-tuning. Here are the key results:
 
-- **Average Validation Accuracy**: 99.12%
-- **Average Validation F1 Score**: 99.125%
+- **Average Validation Accuracy**: 99.22%
+- **Average Validation F1 Score**: 99.225%
 
 A detailed classification report and confusion matrix are also printed for each fold during cross-validation.
 
