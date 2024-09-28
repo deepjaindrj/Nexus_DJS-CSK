@@ -80,3 +80,7 @@ For any questions or collaboration opportunities, feel free to reach out:
 
 - **Name**: Team DJS-CSK
 - **Email**: satyavrat.djsce@gmail.com
+- **Email**: gamingaurav@gmail.com
+- **Email**: deepjain.djsce@gmail.com
+
+
